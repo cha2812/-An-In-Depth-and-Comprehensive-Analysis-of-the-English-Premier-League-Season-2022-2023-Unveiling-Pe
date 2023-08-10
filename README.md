@@ -15,7 +15,6 @@ I was trying to answer and find some answers concerning the English Premier Leag
 7.	Exploring Shots and On-Target Shots: How did the number of shots and shots on target differ between the home and away teams? Did the team with more shots also have a higher number of shots on target?
 8.	Set Pieces Analysis: How do the number of corners, free kicks, and offsides vary between the two teams? Are set pieces a significant factor in generating scoring opportunities?
 9.	Comparison of Possession and Passing Statistics: How did possession percentages correspond to passing accuracy and the number of passes made by each team? Was there a relationship between possession and the number of completed passes?
-10.	Correlation between Possession and Defensive Metrics: Is there a connection between possession and defensive metrics such as tackles, duels, and saves? Does higher possession lead to fewer defensive actions?
 11.	Impact of Substitutions: Did the number of substitutions made by each team influence their overall performance? Did teams that made more substitutions perform differently compared to those that made fewer changes?
 12.	Goalkeeper Performance Analysis: How did the number of saves made by the home and away goalkeepers differ? Did the team with more saves have a better chance of winning the match?
 
