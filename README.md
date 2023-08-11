@@ -23,10 +23,3 @@ I was trying to answer and find some answers concerning the English Premier Leag
 6. Use of the SUMIFS() function
 7. Use of Pivot Table
 8. Data Visualization
-
-
-4. Use of the Average() function
-5. Use of the Year() function
-6. Use of Pivot Table
-7. Data Visualization
-
