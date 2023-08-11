@@ -2,7 +2,7 @@
 Analyzing the English Premier League Season 2022/2023 
 
 ## Introduction
-The dataset contains information about the full statistics from the English Premier League the top Professional football league in England and the biggest football league in Europe for the 2022/2023 season. This includes a comprehensive dataset and accompanying analysis of statistics in England. The dataset includes valuable information and data about Possession and Goal Scoring, the Effect of Home Advantage on Performance, Offensive Efficiency Analysis, Defensive Performance Comparison, Analysis of Fouls and Discipline, Comparing Passing Accuracy and Chances Created, Exploring Shots and On-Target Shots, Set Pieces Analysis, Comparison of Possession and Passing Statistics, Correlation between Possession and Defensive Metrics, Impact of Substitutions, and Goalkeeper Performance Analysis. I used Excel for Data Analysis and Visualization.
+The dataset contains information about the full statistics from the English Premier League the top Professional football league in England and the biggest football league in Europe for the 2022/2023 season. This includes a comprehensive dataset and accompanying analysis of statistics in England. The dataset includes valuable information and data about Possession and Goal Scoring, the Effect of Home Advantage on Performance, Offensive Efficiency Analysis, Analysis of Fouls and Discipline, Comparing Passing Accuracy and Chances Created, Exploring Shots and On-Target Shots, Comparison of Possession and Passing Statistics. I used Excel for Data Analysis and Visualization.
 
 ## Problem Statement
 I was trying to answer and find some answers concerning the English Premier League season and if there is a correlation between the statistics and outcomes that were produced during the season. The correlations I am trying to discover can be seen below:
@@ -23,3 +23,7 @@ I was trying to answer and find some answers concerning the English Premier Leag
 6. Use of the SUMIFS() function
 7. Use of Pivot Table
 8. Data Visualization
+
+## Data Analysis
+The original data provided was incompletere
+
