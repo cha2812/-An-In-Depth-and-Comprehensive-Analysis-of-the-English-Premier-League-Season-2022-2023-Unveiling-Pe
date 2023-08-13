@@ -72,3 +72,7 @@ For problem 5, Manchester United had the highest number of fans attending their 
 
 For better understanding, greater insights and explanations, the report below can show how the problem statements are answered.
 
+![](report.png)
+
+## Conclusion
+
