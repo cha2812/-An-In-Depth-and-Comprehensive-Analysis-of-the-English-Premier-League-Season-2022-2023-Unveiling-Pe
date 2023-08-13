@@ -75,4 +75,16 @@ For better understanding, greater insights and explanations, the report below ca
 ![](report.png)
 
 ## Conclusion
+"Manchester City has the highest average home possession at 65.47%, indicating strong ball control during their home games. They also score an average of 3 goals per home match.
+Teams like Arsenal, Liverpool, Brighton and Hove Albion have relatively high average possession percentages and score 2 to 3 goals on average in their home matches.
+On the other hand, Nottingham Forest has the lowest average possession and scores 1 goal on average in their home matches.
+Some teams like Chelsea, Newcastle United, and Manchester United have mid-range possession percentages and score 1 to 2 goals on average at home."
+"Teams with higher percentages indicate better efficiency in converting their chances into goals.
+Top Performers: Teams like Manchester City, Arsenal, and Liverpool have higher goal conversion rates, which suggests they were more clinical in scoring goals from their shots on target.
+Mid-Table and Lower Teams: Teams with slightly lower goal conversion rates, like Brighton and Hove Albion, Tottenham Hotspur, and Newcastle United, might have struggled to convert their shots into goals.
+Variance in Efficiency: The goal conversion rates vary across teams. This could be as of differences in playing styles, offensive strategies, and individual player performances."
+Positive Correlation: In many cases, there's a positive correlation between total team passes and total team chances. This means that teams that make more passes tend to create more scoring opportunities. Passing the ball effectively can open up spaces on the field and help teams break down their opponents' defences, leading to increased chances to score.
+West Ham United, Wolverhampton Wanderers, and Crystal Palace have lower percentages of shots on target (30.59%, 30.58%, and 31.92% respectively), suggesting that they may need to improve their shooting accuracy.
+Manchester United had the highest number of fans attending their matches. They accounted for 9% of the total fans that attended games for the season 2022/2023. This could mean that they have the most loyal fans, the biggest stadium, biggest fanbase in the country.
+
 
