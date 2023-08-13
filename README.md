@@ -28,18 +28,23 @@ The original data provided was incomplete and can be seen under the file section
 Pivot tables were used to answer the problem statements.
 
 For problem 1, Is possession a significant factor in determining the outcome of the match?
+
 ![](pic1.png)
 
 For problem 2, Offensive Efficiency Analysis: Are there any patterns in teams' ability to convert shots into goals?
+
 ![](pic2b.png)
 
 For problem 3, How did the number of completed passes relate to the number of chances created?
+
 ![](pic3.png)
 
 For problem 4, Percentage of shots on target to shots taken?
+
 ![](pic4.png)
 
 For problem 5, Who accounted for the highest percentage of fans that attended games for the 2022/2023 season?
+
 ![](pic5.png)
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below, better insights are made to better explain and provide solutions to the problem statement. A report was made also to better explain and state our findings.
