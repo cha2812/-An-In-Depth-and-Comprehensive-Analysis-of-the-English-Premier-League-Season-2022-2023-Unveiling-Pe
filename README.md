@@ -48,3 +48,15 @@ For problem 5, Who accounted for the highest percentage of fans that attended ga
 ![](pic5.png)
 
 The next step I did was to visualize my data solved using the Pivot table seen above. In the visuals below, better insights are made to better explain and provide solutions to the problem statement. A report was made also to better explain and state our findings.
+
+For problem 1, Manchester City has the highest average home possession at 65.47%, indicating strong ball control during their home games. They also score an average of 3 goals per home match. Teams like Arsenal, Liverpool, Brighton and Hove Albion have relatively high average possession percentages and score 2 to 3 goals on average in their home matches. On the other hand, Nottingham Forest has the lowest average possession and scores 1 goal on average in their home matches. Some teams like Chelsea, Newcastle United, and Manchester United have mid-range possession percentages and score 1 to 2 goals on average at home.
+
+![](visual1.png)
+
+For problem 2, Do Teams with higher percentages indicate better efficiency in converting their chances into goals?
+Top Performers: Teams like Manchester City, Arsenal, and Liverpool have higher goal conversion rates, which suggests they were more clinical in scoring goals from their shots on target.
+
+![](visual2.png)
+
+
+
