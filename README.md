@@ -8,10 +8,9 @@ The dataset contains information about the full statistics from the English Prem
 I was trying to answer and find some answers concerning the English Premier League season and if there is a correlation between the statistics and outcomes that were produced during the season. The correlations I am trying to discover can be seen below:
 1.	Comparing Possession and Goal Scoring: Is there a correlation between possession percentages and the number of goals scored by the home team? Is possession a significant factor in determining the outcome of the match?
 2.	Offensive Efficiency Analysis: Can we determine which team had a higher efficiency in terms of shots on target? Are there any patterns in teams' ability to convert shots into goals?
-3.	Analysis of Fouls and Discipline: Does a team's discipline, indicated by the number of yellow and red cards, have an impact on the final result?
-4.	Comparing Passing Accuracy and Chances Created: How did the number of completed passes relate to the number of chances created?
-5.	Exploring win percentage and final league standing: Did the win percentage affect and compare to the final league standing?
-6.	Comparison of Possession and Passing Statistics: Was there a relationship between possession and the number of completed passes?
+3.	Comparing Passing Accuracy and Chances Created: How did the number of completed passes relate to the number of chances created?
+4.	Comparison of Possession and Passing Statistics: Was there a relationship between possession and the number of completed passes?
+5.	Exploring fan attendance: Who accounted for the highest percentage of fans that attended games for the 2022/2023 season?
 
 
 ## Skills Demonstrated
