@@ -9,7 +9,7 @@ I was trying to answer and find some answers concerning the English Premier Leag
 1.	Comparing Possession and Goal Scoring: Is there a correlation between possession percentages and the number of goals scored by the home team? Is possession a significant factor in determining the outcome of the match?
 2.	Offensive Efficiency Analysis: Can we determine which team had a higher efficiency in terms of shots on target? Are there any patterns in teams' ability to convert shots into goals?
 3.	Comparing Passing Accuracy and Chances Created: How did the number of completed passes relate to the number of chances created?
-4.	Comparison of Possession and Passing Statistics: Was there a relationship between possession and the number of completed passes?
+4.	Comparison of Shots and Shots on Target Statistics: Percentage of shots on target to shots taken?
 5.	Exploring fan attendance: Who accounted for the highest percentage of fans that attended games for the 2022/2023 season?
 
 
