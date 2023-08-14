@@ -62,15 +62,15 @@ For problem 3, It appears that there is a positive correlation between the numbe
 
 ![](visual3.png)
 
-For problem 4, West Ham United, Wolverhampton Wanderers, and Crystal Palace have lower percentages of shots on target (30.59%, 30.58%, and 31.92% respectively), suggesting that they may need to improve their shooting accuracy.
+For problem 4, West Ham United, Wolverhampton Wanderers, and Crystal Palace have lower percentages of shots on target (30.59%, 30.58%, and 31.92% respectively), suggesting they need to improve their shooting accuracy.
 
 ![](visual4.png)
 
-For problem 5, Manchester United had the highest number of fans attending their matches. They accounted for 9% of the total fans that attended games for the season 2022/2023. This could mean that they have the most loyal fans, the biggest stadium, biggest fanbase in the country.
+For problem 5, Manchester United had the highest number of fans attending their matches. They accounted for 9% of the total fans that attended games for the season 2022/2023. This could mean they have the most loyal fans, the biggest stadium, and the biggest fanbase in the country.
 
-![](visual5b.png)
+![](visual5c.png)                                                                        ![](visual5d.png)                              
 
-For better understanding, greater insights and explanations, the report below can show how the problem statements are answered.
+For better understanding, more insights and explanations, the report below can show how the problem statements are answered.
 
 ![](report.png)
 
