@@ -1,5 +1,5 @@
-# Analysis-of-the-English-Premier-Season-2022-2023
-Analyzing the English Premier League Season 2022/2023 
+# "An In-Depth and Comprehensive Analysis of the English Premier League Season 2022-2023: Unveiling Performance Metrics, Statistical Insights, Team Dynamics, Player Contributions, and Key Trends"
+
 
 ## Introduction
 The dataset contains information about the full statistics from the English Premier League the top Professional football league in England and the biggest football league in Europe for the 2022/2023 season. This includes a comprehensive dataset and accompanying analysis of statistics in England. The dataset includes valuable information and data about Possession and Goal Scoring, the Effect of Home Advantage on Performance, Offensive Efficiency Analysis, Analysis of Fouls and Discipline, Comparing Passing Accuracy and Chances Created, Exploring Shots and On-Target Shots, Comparison of Possession and Passing Statistics. I used Excel for Data Analysis and Visualization.
